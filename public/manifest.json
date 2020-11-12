@@ -1,0 +1,51 @@
+{
+    "short_name": "Ercu Weather",
+    "name": "Ercu Weather",
+    "start_url": "/",
+    "scope": ".",
+    "display": "standalone",
+    "background_color":"#0352fc",
+    "theme_color":"#0352fc",
+    "shortcuts": [
+        {
+          "name": "Open Play Later",
+          "short_name": "Play Later",
+          "description": "View the list of podcasts you saved for later",
+          "url": "/play-later?utm_source=homescreen",
+          "icons": [{ "src": "/img/92x92.png", "sizes": "92x92" }]
+        },
+        {
+          "name": "View Subscriptions",
+          "short_name": "Subscriptions",
+          "description": "View the list of podcasts you listen to",
+          "url": "/subscriptions?utm_source=homescreen"
+        }
+    ],
+    "icons": [
+        {
+            "src": "/img/96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/img/144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+          {
+            "src": "/img/192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/256x256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/img/512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
