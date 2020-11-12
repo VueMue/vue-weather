@@ -2,9 +2,15 @@
 
 > A Vue.js project
 
+### This project is quoted from [another repo](https://github.com/ercanosmanoglu/vue-weather-app).
+
+<!-- ![](https://i.imgur.com/iUoNjpw.gif) -->
+
+![](https://user-images.githubusercontent.com/57585087/98940945-dc38ca80-24fc-11eb-93bf-f38791269e5f.gif)
+
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
